@@ -1,18 +1,13 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "language_info": {
-   "name": "python"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 2
+
+#include <iostream> 
+using namespace std;
+
+int main(){
+    
+    string a;
+    cout<<"Hello World\n";
+    cout<<"Ваш символ = ";
+    cin>> a;
+
+    return 1;
 }
